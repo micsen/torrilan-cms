@@ -1,21 +1,37 @@
 ---
+segments:
+  - header: Test
+    text: Test2
+  - header: Test
+    text: test
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  - title: Om oss!
+    description: >-
+      Ønsker du non-stop gaming gjennom en hel helg? Da er TorriLAN stedet for
+      deg! TorriLAN arrangeres denne sommeren for 29. gang og vi gleder oss til
+      at DU kommer! Gaming, konkurranser i FIFA, Minecraft, Overwatch,
+      aktiviteter som TODO: Insert gym activities i gymsalen, filmvisning på
+      biblioteket, henging med venner og mer, er ting du kan forvente til
+      høstens LAN den 10-12. Juni!
+
+
+
+      Lanet arrangeres i regi av Fritidsenheten vest og frivillige ungdom fra Torridal. Alle som er i aldersgruppen 8. klasse – 18. år er hjertelig velkommen til å melde seg på. Inngang koster 210kr og inkluderer sitteplass med stol, soveplass og dusjmuligheter både fredag og lørdag.
+  - title: Besøk oss!
+    description: >-
+      Det vil som alltid være mulighet for å besøke lanet! Du kan besøke dine
+      venner på TorriLAN på disse tidspunktene:
+
+
+      Fredag: 19.00 – 24.00
+
+
+      Lørdag: 18.00 – 24.00
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -51,6 +67,7 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+test: test
 main:
   heading: Great coffee with no compromises
   description: >
@@ -67,4 +84,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+description: b
 ---
