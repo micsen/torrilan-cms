@@ -41,6 +41,16 @@ collections:
         name: "index"
         fields:
           - {
+              label: Segments,
+              name: segments,
+              widget: list,
+              fields:
+                [
+                  { label: Header, name: header, widget: text },
+                  { label: Text, name: text, widget: text },
+                ],
+            }
+          - {
               label: "Template Key",
               name: "templateKey",
               widget: "hidden",
